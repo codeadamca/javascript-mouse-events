@@ -49,18 +49,18 @@ button.addEventListener("click",function(){
 
 ## Trying It Out
 
-Create a new HTML document, add a heading, some images, and some paragraphs. Use [Lipsum](https://lipsum.com/) for some quick paragraph content. Add some JavaScript to the HTML document that will complete the following objectives:
+Create a new HTML document, add four `div` elements. Add the following four events and DOM manipulation:
 
-1. Change the text colour of the `h1` element.
-2. Change the text of the first `p` element.
-3. Change the border colour of one of the `img` elements.
-4. Change the background colour of the `body` element.
+1. Change the `background-colour` of the first `div` elements is clicked.
+2. Change the `background-colour` of the second `div` element when the mouse enters.
+3. Change the `background-colour` of the third `div` element when the mouse leaves.
+4. Change the `background-colour` of the fourth `div` element when double clicked.
 
 ## Tutorial Requirements:
 
 * [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
 
-Full tutorial URL: https://codeadam.ca/learning/javascript-dom.html
+Full tutorial URL: https://codeadam.ca/learning/javascript-mouse-events.html
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">

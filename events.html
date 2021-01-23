@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+    <title>The JavaScript DOM</title>
+</head>
+<body>
+
+  <h1 id="heading">The JavaScript DOM</h1>
+
+  <p id="paragraph">Mauris convallis dictum odio. Quisque euismod finibus.</p>
+
+  <a id="link" href="https://codeadam.ca">codeadam.ca</a>
+  
+  <button id="button">Click Me!</button>
+
+  <script>
+
+  var button = document.getElementById('button');
+
+  button.addEventListener("click",function(){
+    document.getElementById("heading").style.color = "red";
+  });
+
+  </script>
+
+</body>
+</html>

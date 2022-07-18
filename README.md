@@ -1,4 +1,4 @@
-# javascript-mouse-events
+# A Basic Introduction to JavaScript and Mouse Events
 
 Once you are comfortable with referencing different elements in the HTML document using the DOM (Document Object Model), the next step is to connect the manipulation of the elements in teh DOM to events. JavaScript has many events that can be connected to blocks of code:
 

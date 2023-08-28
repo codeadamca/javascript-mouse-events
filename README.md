@@ -56,11 +56,14 @@ Create a new HTML document, add four `div` elements. Add the following four even
 3. Change the `background-colour` of the third `div` element when the mouse leaves.
 4. Change the `background-colour` of the fourth `div` element when double clicked.
 
-## Tutorial Requirements:
+> Full tutorial URL:  
+> https://codeadam.ca/learning/javascript-mouse-events.html
+
+***
+
+## Repo Resources
 
 * [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
-
-Full tutorial URL: https://codeadam.ca/learning/javascript-mouse-events.html
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">

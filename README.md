@@ -63,7 +63,7 @@ Create a new HTML document, add four `div` elements. Add the following four even
 
 ## Repo Resources
 
-* [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
+* [Visual Studio Code](https://code.visualstudio.com/)
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
